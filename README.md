@@ -24,6 +24,9 @@ Projects:
 🏋️‍♂️ GymTracker Pro: A full-stack fitness tracker featuring real-time workout logging and interactive data visualizations using Recharts and Tailwind CSS.
 🏀 NBA Fantasy Analyzer: A platform offering fantasy basketball player analysis and performance trends by leveraging NBA API and advanced visualization techniques.
 🧑‍💻 Fake Stack Overflow Clone: A robust Q&A platform with authentication, reputation systems, and RESTful API-driven content management.
+Check out these Projects:
+[Fake Stack Oveflow Clone](https://github.com/sbu-ckane-s24-cse316-pa04org/pa04-22win)_
+
 <br/>
 ☞ Excited to tackle new challenges in software engineering and expand my technical expertise.
 ☞ Open to internships and collaborative opportunities in full-stack development and beyond.
