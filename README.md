@@ -3,8 +3,8 @@
 Key Highlights:
 
 ☞ Proven experience in developing responsive web applications using modern frameworks and technologies.
-☞ Strong foundation in Computer Science with coursework in Data Structures, Object-Oriented Programming, Probability and Statistics, and System Fundamentals.
-☞ Skilled in creating intuitive interfaces, implementing real-time data processing, and building robust backend systems.
+☞ Strong foundation in Computer Science with coursework in Data Structures, Object-Oriented Programming, System Fundamentals I and II, Programming Abstractions, and Fundamentals of Software Development.
+☞ Skilled in creating  interfaces, implementing real-time data processing, and building robust backend systems.
 ☞ Experience working collaboratively in team environments to produce functional and dynamic projects.
 ☞ Passionate about continuous learning and innovation, with a focus on creating meaningful user experiences.
 Let's connect and discuss how I can contribute to your team or project! 🚀 <br/> <br/>
